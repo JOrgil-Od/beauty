@@ -1,4 +1,34 @@
 {
+  "..\\components\\Common\\InstagramPhoto.js -> react-owl-carousel3": {
+    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "files": [
+      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+    ]
+  },
+  "..\\components\\Common\\News.js -> react-owl-carousel3": {
+    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "files": [
+      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+    ]
+  },
+  "..\\components\\Common\\Partner.js -> react-owl-carousel3": {
+    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "files": [
+      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+    ]
+  },
+  "..\\components\\Common\\Testimonials.js -> react-owl-carousel3": {
+    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "files": [
+      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+    ]
+  },
+  "..\\components\\Layout\\TopPanel.js -> react-owl-carousel3": {
+    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "files": [
+      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+    ]
+  },
   "..\\node_modules\\next\\dist\\client\\next-dev.js -> ./dev/noop": {
     "id": "./node_modules/next/dist/client/dev/noop.js",
     "files": [
